@@ -112,12 +112,12 @@ C) trim()
 D) len()
 E) clear()
 
-
-A) 
-B) 
-C) 
-D) 
-E) 
+17. Sətri böyük hərflərlə yazılmış formada qaytarmaq üçün hansı üsuldan istifadə etmək olar?
+A) upper()
+B) upperCase()
+C) uppercase()
+D) to_upper()
+E) toUpperCase()
 
 
 A) 
