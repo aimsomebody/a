@@ -80,7 +80,7 @@ D) list(range(10,1,-1))
 E) list(range(10,1,1))
 
 13. Python-da kompilyator, "for" dövrü daxili blokunu necə müəyyən edir?
-A) "for" dövründən sonra OTSTUP səviyyəsinə görə
+A) "for" dövründən sonra boşluqların səviyyəsinə görə
 B) "for" dövrünün sonundakı "end" açar sözünə görə
 C) "for" dövrünün sonunda boş yerə görə
 D) "for" dövrü mötərizələrlə əhatə olunduğuna görə ({})
@@ -98,19 +98,19 @@ C) fruit_info.keys
 D) fruit_info.to_keys()
 E) fruit_info.all_keys([0,1,2])
 
+15. Python-da dəyişən və ya obyektin növünü çıxarmaq üçün düzgün sintaksis hansıdır?
+A) print(type(x))
+B) print(typeOf(x))
+C) print(x.typeOf())
+D) print(typeof(x))
+E) print(x.type())
 
-A) 
-B) 
-C) 
-D) 
-E) 
-
-
-A) 
-B) 
-C) 
-D) 
-E) 
+16. Sətirin həm əvvəlindən, həm də sonundan hər hansı bir boşluğu aradan qaldırmaq üçün hansı üsuldan istifadə edilə bilər?
+A) strip()
+B) ptrim()
+C) trim()
+D) len()
+E) clear()
 
 
 A) 
