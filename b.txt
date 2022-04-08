@@ -55,7 +55,7 @@ E) 5
 
 10. Növbəti kodun nəticəsi nə olacaq?
 >>> y="bir;sətir;kod;"
->>> Z = y.split(‘;’)
+>>> Z = y.split(';')
 >>> len(z)
 A) Error
 B) 3
