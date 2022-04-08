@@ -70,12 +70,14 @@ C) heç bir fərqi yoxdur
 D) pop() mütləq şəkildə arqument tələb edir
 E) pop() elementi əlavə edir 
 
-
-A) 
-B) 
-C) 
-D) 
-E) 
+12. Hansı kod 10-dan 1-ə qədər siyahı yaradacaq? 
+Misal:
+    [10,9,8,7,6,5,4,3,2,1]
+A) list(reversed(range(1,11)))
+B) list(reversed(range(1,10)))
+C) reversed(list(range(1,11)))
+D) list(range(10,1,-1))
+E) list(range(10,1,1))
 
 
 A) 
