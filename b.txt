@@ -79,19 +79,24 @@ C) reversed(list(range(1,11)))
 D) list(range(10,1,-1))
 E) list(range(10,1,1))
 
+13. Python-da kompilyator, "for" dövrü daxili blokunu necə müəyyən edir?
+A) "for" dövründən sonra OTSTUP səviyyəsinə görə
+B) "for" dövrünün sonundakı "end" açar sözünə görə
+C) "for" dövrünün sonunda boş yerə görə
+D) "for" dövrü mötərizələrlə əhatə olunduğuna görə ({})
+E) "for" dövrünün sonundakı "return" açar sözünə görə
 
-A) 
-B) 
-C) 
-D) 
-E) 
-
-
-A) 
-B) 
-C) 
-D) 
-E) 
+14. Bu lüğətdəki bütün açarları necə əldə edilir?
+meyva_info = {
+    'meyva': 'alma',
+    'say': 2,
+    'qitmat': 3.5
+} 
+A) fruit_info.keys()
+B) fruit_info.all_keys()
+C) fruit_info.keys
+D) fruit_info.to_keys()
+E) fruit_info.all_keys([0,1,2])
 
 
 A) 
