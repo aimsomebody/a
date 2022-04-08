@@ -156,34 +156,48 @@ C) None
 D) Not found
 E) SyntaxError
 
+23. Növbəti kodun nəticəsi nə olacaq?
+for x in range(0.5, 5.5, 0.5):
+  print(x)
+A) [0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5]
+B) [0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5]
+C) [1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5]
+D) [1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5]
+E) [1, 2, 3, 4, 5]
 
-A) 
-B) 
-C) 
-D) 
-E) 
+24. remove() metodu pop() metodundan nəyi ilə fərqlənir?
+A) remove() elementi qiymətinə görə silir
+B) remove() elementi indeksə görə silir
+C) heç bir fərqi yoxdur
+D) remove() mütləq şəkildə arqument tələb etmir
+E) remove() elementi əlavə edir 
 
+25. Növbəti kodun nəticəsi nə olacaq?
+var1 = 1
+var2 = 2
+var3 = "3"
+print(var + var2 + var3)
+A) Error
+B) 123
+C) 12"3"
+D) 12
+E) 3
 
-A) 
-B) 
-C) 
-D) 
-E) 
+26. Növbəti kodun nəticəsi nə olacaq?
+var = "Aga Vahid"
+print(var[2::-1])
+A) agA
+B) hid
+C) haV
+D) Vah
+E) Aga
 
-
-A) 
-B) 
-C) 
-D) 
-E) 
-
-
-A) 
-B) 
-C) 
-D) 
-E) 
-
+27. not(x < 5 and x < 10) -ə bərabərdir?
+A) x<5 or x < 10
+B) x >=5 or x >= 10
+C) not(x<5) and not(x<10)
+D) not(x < 5 or x < 10)
+E) not(x<5) or not(x<10)
 
 A) 
 B) 
