@@ -63,6 +63,16 @@ C) 4
 D) 8
 E) 15
 
+10a. Növbəti kodun nəticəsi nə olacaq?
+>>> y="bir;sətir;kod"
+>>> z = y.split(';')
+>>> len(z)
+A) 3
+B) 0
+C) 4
+D) 8
+E) 15
+
 11. pop() metodu remove() metodundan nəyi ilə fərqlənir?
 A) pop() elementi indeksə görə silir
 B) pop() elementi qiymətinə görə silir
@@ -193,46 +203,64 @@ D) Vah
 E) Aga
 
 27. not(x < 5 and x < 10) -ə bərabərdir?
-A) x<5 or x < 10
-B) x >=5 or x >= 10
-C) not(x<5) and not(x<10)
+A) not(x < 5) and not(x < 10)
+B) x >= 5 or x >= 10
+C) x < 5 or x < 10
 D) not(x < 5 or x < 10)
-E) not(x<5) or not(x<10)
+E) not(x < 5) or not(x < 10)
 
-A) 
-B) 
-C) 
-D) 
-E) 
+28. Növbəti kodun nəticəsi nə olacaq?
+a = 5 
+a &= 0
+print(a) 
+A) 0
+B) 5
+C) 1
+D) True
+E) False
 
+29. Növbəti kodun nəticəsi nə olacaq?
+print('hello World'.istitle())
+A) False
+B) True
+C) 1
+D) 0
+E) SyntaxError
 
-A) 
-B) 
-C) 
-D) 
-E) 
+30. Növbəti kodun nəticəsi nə olacaq?
+ list(“hello”)
+A) [‘h’, ‘e’, ‘l’, ‘l’, ‘o’]
+B) [‘hello’]
+C) [‘olleh’]
+D) 'hello'
+E) {‘h’, ‘e’, ‘l’, ‘l’, ‘o’}
 
+31. Növbəti kodun nəticəsi nə olacaq?
+names = ['Aga', 'Vahid']
+print(names[-1][-1])
+A) d
+B) a
+C) Vahid
+D) a
+E) i
 
-A) 
-B) 
-C) 
-D) 
-E) 
+32. Növbəti kodun nəticəsi nə olacaq?
+a=[1,2,3]
+b=a.append(4)
+print(a)
+print(b)
+A) [1, 2, 3, 4]
+   None
+B) [1, 2, 3, 4]
+   [1, 2, 3, 4]
+C) [1, 2, 3]
+   [1, 2, 3, 4]
+D) [1, 2, 3, 4]
+   [1, 2, 3]
+E) [1, 2, 3]
+   [1, 2, 3]
 
-
-A) 
-B) 
-C) 
-D) 
-E) 
-
-
-A) 
-B) 
-C) 
-D) 
-E) 
-
+33. 
 A) 
 B) 
 C) 
