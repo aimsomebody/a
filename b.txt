@@ -260,27 +260,73 @@ D) [1, 2, 3, 4]
 E) [1, 2, 3]
    [1, 2, 3]
 
-33. 
-A) 
-B) 
-C) 
-D) 
-E) 
+33. Aşağıdakılardan hansı Python kortejidir?
+A) (1, 2, 3)
+B) [1, 2, 3]
+C) {1, 2, 3}
+D) {}
+E) []
 
-A) 
-B) 
-C) 
-D) 
-E) 
+34. Növbəti kodun nəticəsi nə olacaq?
+>>> s=list()
+>>> type(s)
+A) list
+B) <class 'list'>
+C) class list
+D) None
+E) <'list'>
 
-A) 
-B) 
-C) 
-D) 
-E) 
+35. Növbəti kodun nəticəsi nə olacaq?
+>>> a={1:"A",2:"B",3:"C"}
+>>> del a
+>>> a
+A) NameError
+B) TypeError
+C) {1:"A",2:"B",3:"C"}
+D) {1:"A",2:"B"}
+E) {2:"B",3:"C"}
 
-A) 
-B) 
-C) 
-D) 
-E) 
+36. Növbəti kodun nəticəsi nə olacaq?
+>>> round(4.576)
+A) 5
+B) 4.5
+C) 4
+D) 5.0
+E) 4.6
+
+
+37. Aşağıdakılardan hansı funksiya haqqında doğru deyimdir?
+A) funksiyalar proqramların təkrar istifadə edilə bilən hissələridir
+B) funksiyalar tətbiqiniz üçün daha yaxşı modulluq təmin etmir
+C) funksiyanın arqumenti mütləq olmalıdır
+D) qeyd olunanların hamısı
+E) funksiyalar ancaq bir dəfə çağırıla bilər
+
+38. Funksiyaların iki əsas növü hansılardır?
+A) daxili funksiya və istifadəçi tərəfindən müəyyən edilmiş funksiya 
+B) xüsusi funksiya və sistem funksiyası
+C) istifadəçi funksiyası və xüsusi funksiya
+D) sistem funksiyası və daxili funksiya
+E) daxili funksiya və xarici funksiya
+
+39. "q" verilənin qiyməti necə dəyişəcək?
+def foo(k):
+    k = [1]
+q = [0]
+foo(q)
+A) [0]
+B) [1]
+C) [0, 1]
+D) [1, 0]
+E) [0, 0]
+
+40. 
+x = ['ab', 'cd']
+for i in x:
+    i.upper()
+print(x)
+A) [‘ab’, ‘cd’]
+B) [‘AB’, ‘CD’]
+C) [None, None]
+D) [None, ‘CD’]
+E) [‘ab’, ‘CD’]
