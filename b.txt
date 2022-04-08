@@ -53,12 +53,15 @@ C) 21
 D) 18
 E) 5
 
-
-A) 
-B) 
-C) 
-D) 
-E) 
+10. Növbəti kodun nəticəsi nə olacaq?
+>>> y=bir;sətir;kod;”
+>>> Z = y.split(‘;’)
+>>> len(z)
+A) Error
+B) 3
+C) 4
+D) 8
+E) 15
 
 
 A) 
