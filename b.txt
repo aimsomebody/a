@@ -54,7 +54,7 @@ D) 18
 E) 5
 
 10. Növbəti kodun nəticəsi nə olacaq?
->>> y=bir;sətir;kod;”
+>>> y="bir;sətir;kod;"
 >>> Z = y.split(‘;’)
 >>> len(z)
 A) Error
@@ -63,12 +63,12 @@ C) 4
 D) 8
 E) 15
 
-11. 
-A) 
-B) 
-C) 
-D) 
-E) 
+11. pop() metodu remove() metodundan nəyi ilə fərqlənir?
+A) pop() elementi indeksə görə silir
+B) pop() elementi qiymətinə görə silir
+C) heç bir fərqi yoxdur
+D) pop() mütləq şəkildə arqument tələb edir
+E) pop() elementi əlavə edir 
 
 
 A) 
