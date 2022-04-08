@@ -119,33 +119,42 @@ C) uppercase()
 D) to_upper()
 E) toUpperCase()
 
+18. Sətirin hissələrini əvəz etmək üçün hansı üsuldan istifadə etmək olar?
+A) replace()
+B) change()
+C) update()
+D) repl()
+E) switch()
 
-A) 
-B) 
-C) 
-D) 
-E) 
+19. Dövrəni dayandırmaq üçün hansı ifadədən istifadə olunur?
+A) break
+B) return
+C) end
+D) exit
+E) stop
 
+20. Aşağıdakı funksiyalardan hansı bir simvolu python-da onun tam dəyərinə(unicode) çevirir?
+A) ord()
+B) unicode()
+C) oct()
+D) hex()
+E) char()
 
-A) 
-B) 
-C) 
-D) 
-E) 
+21. Növbəti kodun nəticəsi nə olacaq?
+' ' in 'python'
+A) False
+B) True
+C) None
+D) Not found
+E) SyntaxError
 
-
-A) 
-B) 
-C) 
-D) 
-E) 
-
-
-A) 
-B) 
-C) 
-D) 
-E) 
+22. Növbəti kodun nəticəsi nə olacaq?
+'' in 'python'
+A) True
+B) False
+C) None
+D) Not found
+E) SyntaxError
 
 
 A) 
