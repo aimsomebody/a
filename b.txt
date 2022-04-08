@@ -3,7 +3,7 @@ A) .pop() metodu
 B) .delete() metodu
 C) .pop(list) metodu
 D) .del(list) metodu
-E) .remove() metodu
+E) .remove(list) metodu
 
 4. Əgər funksiyada return açar sözü yoxdursa, nə baş verəcəq?
 A) funksiya None qaytaracaq.
@@ -63,7 +63,7 @@ C) 4
 D) 8
 E) 15
 
-
+11. 
 A) 
 B) 
 C) 
