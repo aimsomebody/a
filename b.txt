@@ -38,11 +38,10 @@ E) get_max_num([57, 99, 31, 18]).call
 8) Siyahıdakı 'alma' sətirini 'avakado' sətirlə əvəz etmək üçün düzgün sintaksis hansıdır?
 my_list = ['kivi', 'alma', 'nar']
 A) avakado = my_list[1]
- my_list[1] == avakado
 B) my_list[1] = 'avakado'
 C) my_list['avakado'] = 1
-D) 
-E) 
+D) my_list[1] == avakado
+E) my_list['alma'] = avakado
 
 
 A) 
