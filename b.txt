@@ -1,0 +1,223 @@
+1. Siyahıdan elementləri silmək üçün hansı daxili siyahı metodundan istifadə edərdiniz?
+A) .pop() metodu
+B) .delete() metodu
+C) .pop(list) metodu
+D) .del(list) metodu
+E) .remove() metodu
+
+4. Əgər funksiyada return açar sözü yoxdursa, nə baş verəcəq?
+A) funksiya None qaytaracaq.
+B) funksiya RuntimeError qaytaracaq.
+C) funksiya True qaytaracaq.
+D) funksiya sonsuz dövrəyə daxil olacaq, çünki kodunun icrasını nə vaxt dayandıracağını bilməyəcək.
+E) funksiya False qaytaracaq.
+
+5. Bərabərlik üçün bu yoxlama hansı nəticə qaytarılacaq?
+>>> 5 + 1 != 6
+A) yes
+B) False
+C) True
+D) None
+E) Error
+
+6. Lüğət dəyişənini yaratmaq üçün düzgün sintaksis hansıdır?
+A) fruit_info = {'fruit': 'apple', 'count': 2, 'price': 3.5}
+B) fruit_info =('fruit': 'apple', 'count': 2,'price': 3.5 ).dict()
+C) fruit_info = ['fruit': 'apple', 'count': 2,'price': 3.5 ].dict()
+D) fruit_info = to_dict('fruit': 'apple', 'count': 2, 'price': 3.5)
+E) fruit_info = ['fruit': 'apple', 'count': 2, 'price': 3.5]
+
+
+7. Funksiyanı çağırmağın düzgün yolu hansıdır?
+A) get_max_num([57, 99, 31, 18])
+B) call(get_max_num)
+C) def get_max_num([57, 99, 31, 18])
+D) call.get_max_num([57, 99, 31, 18])
+E) get_max_num([57, 99, 31, 18]).call
+
+8) Siyahıdakı 'alma' sətirini 'avakado' sətirlə əvəz etmək üçün düzgün sintaksis hansıdır?
+my_list = ['kivi', 'alma', 'nar']
+A) avakado = my_list[1]
+ my_list[1] == avakado
+B) my_list[1] = 'avakado'
+C) my_list['avakado'] = 1
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+A) 
+B) 
+C) 
+D) 
+E) 
+
+A) 
+B) 
+C) 
+D) 
+E) 
