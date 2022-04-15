@@ -26,7 +26,7 @@ C) Cloudera
 D) Watson
 E) CloudFlare
 
-5. Bu şirkətlərdən hansı Cloud Computing üzrə Lider deyil?
+5. Bu şirkətlərdən hansı Cloud Computing üzrə lider deyil?
 A) Blackboard
 B) Google
 C) Microsoft
