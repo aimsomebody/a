@@ -33,29 +33,30 @@ C) Microsoft
 D) Amazon
 E) Salesforce
 
-6. 3
-A)
-B)
-C)
-D)
-E)
+6. Buludda proqramların hazırlana və icra oluna biləcəyi bir platforma təmin edir. 
+Nümunə: Force.com(Salesforce.com). 
+A) PaaS
+B) IaaS
+C) SaaS
+D) XaaS
+E) RaaS
 
-7. 
-A)
-B)
-C)
-D)
-E)
+7. Bulud xidmətləri ictimaiyyət üçün əlçatandır və bulud xidmətlərini satan təşkilata məxsusdur:
+A) Public 
+B) Hybrid
+C) Private
+D) Community
+E) Multi
+
+8. Hansı əsas bulud hesablama platforması deyil?
+A) İBM Deep Blue
+B) Amazon EC2
+C) Microsoft Azure
+D) Google 101
+E) Salesforce
 
 
-A)
-B)
-C)
-D)
-E)
-
-
-
+9.
 A)
 B)
 C)
