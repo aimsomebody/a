@@ -1,0 +1,6 @@
+1. Bulud infrastrukturunun idarə edilməsinə və idarə olunmasına cavabdeh olan təşkilat aşağıdakılardır:
+a. Bulud istehlakçısı
+b. İnfrastruktur satıcısı
+c. Bulud provayderi
+d. İdarəetmə agenti
+e. Müştəri
