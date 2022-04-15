@@ -33,8 +33,7 @@ C) Microsoft
 D) Amazon
 E) Salesforce
 
-6. Buludda proqramların hazırlana və icra oluna biləcəyi bir platforma təmin edir. 
-Nümunə: Force.com(Salesforce.com). 
+6. Proqramların hazırlana və icra oluna biləcəyi bir platforma təmin edən bulud kategoriyası hansıdır?
 A) PaaS
 B) IaaS
 C) SaaS
