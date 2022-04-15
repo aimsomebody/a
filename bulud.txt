@@ -233,81 +233,81 @@ D) 3 CPU x 1.6 GHz, 5 GB, 500 GB
 E) 6 CPU x 1.6 GHz, 12 GB, 700 GB
 
 34. Avtomatik miqyaslama nədir?
-A) 
-B)
-C)
-D)
-E)
+A) nümunələrin əlavə edilməsi
+B) nümunələrin yaradılması 
+C) nümunələrin dəyişdirilməsi
+D) nümunələrin sıfırlanması
+E) nümunələrin yenilənməsi
 
-35. 
-A)
-B)
-C)
-D)
-E)
+35. Windows Azure-da tətbiq yaratmaq üçün istifadə edilə bilən dil/framework deyil?
+A) Go
+B) Php
+C) .Net
+D) Python
+E) Java
 
-36. 
-A)
-B)
-C)
-D)
-E)
+36. Windows Azure-da tətbiq yaratmaq üçün istifadə edilə bilən dil/framework?
+A) .Net
+B) Go
+C) C++
+D) R
+E) VBA
 
-37. 
-A)
-B)
-C)
-D)
-E)
+37. Windows Azure-da tətbiq yaratmaq üçün istifadə edilə bilən dil/framework?
+A) Python
+B) Go
+C) C++
+D) R
+E) VBA
 
-38. 
-A)
-B)
-C)
-D)
-E)
+38. Windows Azure-da tətbiq yaratmaq üçün istifadə edilə bilən dil/framework?
+A) Php
+B) Go
+C) C++
+D) R
+E) VBA
 
-39. 
-A)
-B)
-C)
-D)
-E)
+39. Windows Azure-da tətbiq yaratmaq üçün istifadə edilə bilən dil/framework?
+A) Java
+B) Go
+C) C++
+D) R
+E) VBA
 
-40. 
-A)
-B)
-C)
-D)
-E)
+40. Windows Azure-da tətbiq yaratmaq üçün istifadə edilə bilən dil/framework?
+A) Ruby
+B) Go
+C) C++
+D) R
+E) VBA
 
-41. 
-A)
-B)
-C)
-D)
-E)
+41. Windows Azure-da tətbiq yaratmaq üçün istifadə edilə bilən dil/framework?
+A) Node.JS
+B) Go
+C) C++
+D) R
+E) VBA
 
-42. 
-A)
-B)
-C)
-D)
-E)
+42. Microsoft Azure hansı xidmət növünə aiddir?
+A) PaaS
+B) IaaS
+C) SaaS
+D) XaaS
+E) SECaaS
 
-43.
-A)
-B)
-C)
-D)
-E)
+43.  Azure tətbiq üçün hansı mühit ilə təmin edir?
+A) Quruluş mühiti
+B) Test mühiti
+C) Yaratma mühiti
+D) Sistem inteqrasiyası testi mühiti
+E) Qrafik mühit
 
-44. 
-A)
-B)
-C)
-D)
-E)
+43.  Azure tətbiq üçün hansı mühit ilə təmin edir?
+A) Hasilat mühiti
+B) Test mühiti
+C) Yaratma mühiti
+D) Sistem inteqrasiyası testi mühiti
+E) Qrafik mühit
 
 45. 
 A) 
