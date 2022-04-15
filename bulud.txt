@@ -56,12 +56,12 @@ D) Google 101
 E) Salesforce
 
 
-9.
-A)
-B)
-C)
-D)
-E)
+9. Azure platfomasını idarə etmək üçün istifadə olunan istifadəçi interfeysi necə adlanır?
+A) Azure Portal
+B) Azure Gate
+C) Azure Door
+D) Azure Entrance
+E) Azure Opening Unit
 
 
 A)
