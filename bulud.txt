@@ -62,61 +62,103 @@ C) Azure Door
 D) Azure Entrance
 E) Azure Opening Unit
 
+10. Texnologiya şirkətləri tərəfindən qurulan İT proqram təminatı və xidmətlərini özündə birləşdirən onlayn mağaza hansıdır?
+A) Azure Marketplace
+B) Amazon Store
+C) İBM Market
+D) Salesforce Apps
+E) Google Apps
 
-A)
-B)
-C)
-D)
-E)
+11. Texnologiya şirkətləri tərəfindən qurulan İT proqram təminatı və xidmətlərini özündə birləşdirən onlayn mağaza hansıdır?
+A) AWS Marketplace
+B) Salesforce Apps
+C) İBM Market
+D) Azure Apps
+E) Google Apps
 
+12. Azure-da yerləşən Windows və Linux virtual maşınları (VM) ilə təmin edən xidmət hansıdır?
+A) Azure Virtual Machines
+B) Azure Hypervisor
+C) Azure Virtual
+D) Azure Portal
+E) Azure VM Market
 
-A)
-B)
-C)
-D)
-E)
+13. Serversiz hesablama xidməti hansıdır?
+A) Azure Functions
+B) Azure Portal
+C) Azure Networks
+D) Azure Load Balancer
+E) Azure Server
 
+14. Tətbiqlərə daxil olan və gedən əlaqələri balanslaşdıran xidmət hansıdır?
+A) Azure Load Balancer
+B) Azure VPN Gateway
+C) Azure Virtual Network
+D) Azure DNS
+E) Azure Firewall
 
-A)
-B)
-C)
-D)
-E)
+15. Virtual maşınlara daxil olan virtual xüsusi şəbəkə (VPN) əlaqələri ilə əlaqələndirir:
+A) Azure Virtual Network
+B) Azure Network
+C) Azure VPN
+D) Azure Manager
+E) Azure Ports
 
+16. Bitmap faylı və ya video kimi böyük obyektlər üçün saxlama xidməti:
+A) Azure Blob storage
+B) Azure File storage
+C) Azure Files
+D) Azure Store
+E) Azure Portal
 
-A)
-B)
-C)
-D)
-E)
+17. Azure platformasının əsas komponentlərindəndir?
+A) Azure Compute
+B) Azure Portal
+C) Azure Store
+D) Azure Files
+E) Azure Metrics
 
+18. Azure platformasının əsas komponentlərindəndir?
+A) Azure Storage
+B) Azure Portal
+C) Azure Store
+D) Azure Files
+E) Azure Metrics
 
-A)
-B)
-C)
-D)
-E)
+19. Azure platformasının əsas komponentlərindəndir?
+A) Azure AppFabric
+B) Azure Portal
+C) Azure Store
+D) Azure Files
+E) Azure Metrics
 
+20. Azure platformasının əsas komponentlərindəndir?
+A) Azure SQL
+B) Azure Portal
+C) Azure Store
+D) Azure Files
+E) Azure Metrics
 
-A)
-B)
-C)
-D)
-E)
+21. Windows Azure-da mövcud rollardandır?
+A) Web Roles
+B) Server Roles
+C) Virtual Roles
+D) Network Roles
+E) Access Roles
 
+22. Windows Azure-da mövcud rollardandır?
+A) VM Roles
+B) Server Roles
+C) Virtual Roles
+D) Network Roles
+E) Access Roles
 
-A)
-B)
-C)
-D)
-E)
-
-
-A)
-B)
-C)
-D)
-E)
+23. Windows Azure-da mövcud rollardandır?
+A) Worker Roles
+B) Server Roles
+C) Virtual Roles
+D) Network Roles
+E) Access Roles
 
 
 A)
