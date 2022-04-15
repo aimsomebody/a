@@ -12,4 +12,9 @@ C) Bulud istehlakçısı
 D) İdarəetmə agenti
 E) Bulud provayderi
 
-3. 
+3. Bulud İT resurslarını miqyaslaşdırmaq üçün avtomatlaşdırılmış qabiliyyəti hansıdır?
+A) Elastiklik
+B) Əlçatanlıq
+C) Təhlükəsizlik
+D) Limitsiz saxlama qabiliyyəti
+E) İnternet Bağlantısı
