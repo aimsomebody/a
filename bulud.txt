@@ -232,8 +232,8 @@ C) 2 CPU x 1.6 GHz, 3.5 GB, 490 GB
 D) 3 CPU x 1.6 GHz, 5 GB, 500 GB
 E) 6 CPU x 1.6 GHz, 12 GB, 700 GB
 
-34. 
-A)
+34. Avtomatik miqyaslama nədir?
+A) 
 B)
 C)
 D)
@@ -3481,7 +3481,7 @@ C)
 D) 
 E) 
 
-499. 
+500. 
 A) 
 B) 
 C) 
