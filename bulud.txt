@@ -3,10 +3,10 @@ A) Bulud provayderi
 B) İnfrastruktur satıcısı
 C) Bulud istehlakçısı
 D) İdarəetmə agenti
-E) Müştəri
+E) Bulud istifadəçisi
 
 2. Təqdim edilən bulud resurslarından istifadə etmək üçün bulud provayderi ilə rəsmi müqaviləsi olan qurum?
-A) Müştəri
+A) Bulud istifadəçisi
 B) İnfrastruktur satıcısı
 C) Bulud istehlakçısı
 D) İdarəetmə agenti
