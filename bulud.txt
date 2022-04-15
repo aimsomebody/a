@@ -1,14 +1,14 @@
 1. Bulud infrastrukturunun idarə olunmasına cavabdeh olan qurum hansıdır?
 A) Bulud provayderi
 B) İnfrastruktur satıcısı
-C) Bulud istehlakçısı
+C) Sistem administratoru
 D) İdarəetmə agenti
 E) Bulud istifadəçisi
 
 2. Təqdim edilən bulud resurslarından istifadə etmək üçün bulud provayderi ilə rəsmi müqaviləsi olan qurum?
 A) Bulud istifadəçisi
 B) İnfrastruktur satıcısı
-C) Bulud istehlakçısı
+C) Sistem administratoru
 D) İdarəetmə agenti
 E) Bulud provayderi
 
