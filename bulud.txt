@@ -984,19 +984,19 @@ C) Encrypted
 D) Secured
 E) Wallet
 
-140. c
-A) 
-B) 
-C) 
-D) 
-E) 
+140. Bulud hesablamada məxfiliyə nəzarətin ilk beynəlxalq standard hansıdır?
+A) ISO 27018
+B) ISO 27001
+C) ISO 27012
+D) ISO 27002
+E) ISO 27006
 
-141. 
-A) 
-B) 
-C) 
-D) 
-E) 
+141. Xidmət Səviyyəsi Müqaviləsinə(SLA) adətən nə daxil edilmir?
+A) SLA ilə əhatə olunacaq xidmətlərin qiymətlərini
+B) SLA ilə əhatə olunacaq xidmətlərin mövcudluğunu
+C) Istifadə ediləcək dəyişikliklərin idarə edilməsi prosesini
+D) Məlumatların məxfiliyini
+E) Mübahisələrdə vasitəçilik prosesindən istifadəni
 
 142. 
 A) 
