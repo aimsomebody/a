@@ -949,12 +949,12 @@ C) Oracle Letters
 D) Oracle News
 E) Oracle Parties
 
-135. 
-A) 
-B) 
-C) 
-D) 
-E) 
+135. Hansı Oracle Cloud xidməti müştəri məlumatlarının təhlükəsizliyinə diqqət yetirir?
+A) Data Safe
+B) Data Guard
+C) Secured
+D) Data Firewall
+E) Data Analytics
 
 136. 
 A) 
