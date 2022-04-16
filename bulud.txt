@@ -83,7 +83,7 @@ C) Azure Virtual
 D) Azure Portal
 E) Azure VM Market
 
-13. Serversiz hesablama xidməti hansıdır?
+13. Azure-da serversiz hesablama xidməti hansıdır?
 A) Azure Functions
 B) Azure Portal
 C) Azure Networks
@@ -475,14 +475,14 @@ C) 3-cü növ
 D) 4-cü növ
 E) 0-cı növ
 
-68. AWS necə dənə zonada mövcuddur?
+68. AWS neçə dənə zonada mövcuddur?
 A) 84
 B) 56
 C) 160
 D) 40
 E) 62
 
-68. Azure necə dənə zonada mövcuddur?
+68. Azure neçə dənə zonada mövcuddur?
 A) 52
 B) 76
 C) 121
@@ -636,19 +636,19 @@ C) AWS Config
 D) CloudTrail
 E) CloudFront
 
-91. 
-A) 
-B) 
-C) 
-D) 
-E) 
+91. Hansı yaddaşdaxili keş serveri AWS ElastiCache tərəfindən dəstəklənmir?
+A) ElasticSearch
+B) Redis 5
+C) Redis 4
+D) Redis 3
+E) Memcached
 
-92. 
-A) 
-B) 
-C) 
-D) 
-E) 
+92. AWS-də serversiz hesablama xidməti hansıdır?
+A) Lambda
+B) EC2
+C) S3
+D) CloudWatch
+E) CloudFront
 
 93. 
 A) 
