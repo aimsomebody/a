@@ -942,7 +942,7 @@ C) Oracle Doctor
 D) Oracle Medicine
 E) Oracle Heal
 
-134. Oracle Cloud-da müştərinin mühitinə təsir edən hadisələri hansı xidmət məlumatlandırır?
+134. Oracle Cloud-da müştərinin mühitinə təsir edən hadisələr haqqında müştərini hansı xidmət məlumatlandırır?
 A) Oracle Announcements
 B) Oracle Notifications
 C) Oracle Letters
