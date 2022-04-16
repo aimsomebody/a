@@ -405,63 +405,63 @@ C) 2-ci növ Hipervizor
 D) Kubernetes
 E) Sandbox
 
-58. 1-ci növ Hipervizora aiddir:
+58. 1-ci növ Hipervizora aşağıdakılardan hansı aiddir?
 A) Linux KVM
 B) VMware Workstation
 C) VMware Player
 D) Oracle VirtualBox
 E) Oracle VM Server
 
-59. 1-ci növ Hipervizora aiddir:
+59. 1-ci növ Hipervizora aşağıdakılardan hansı aiddir?
 A) VMware ESXi
 B) VMware Workstation
 C) VMware Player
 D) Oracle VirtualBox
 E) Oracle VM Server
 
-60. 1-ci növ Hipervizora aiddir:
+60. 1-ci növ Hipervizora aşağıdakılardan hansı aiddir?
 A) Microsoft Hyper-V
 B) VMware Workstation
 C) VMware Player
 D) Oracle VirtualBox
 E) Oracle VM Server
 
-61. 1-ci növ Hipervizora aiddir:
+61. 1-ci növ Hipervizora aşağıdakılardan hansı aiddir?
 A) Xen Server
 B) VMware Workstation
 C) VMware Player
 D) Oracle VirtualBox
 E) Oracle VM Server
 
-62. 2-ci növ Hipervizora aiddir:
+62. 2-ci növ Hipervizora aşağıdakılardan hansı aiddir?
 A) VMware Workstation
 B) Microsoft Hyper-V
 C) Linux KVM
 D) VMware ESXi
 E) Xen Server
 
-63. 2-ci növ Hipervizora aiddir:
+63. 2-ci növ Hipervizora aşağıdakılardan hansı aiddir?
 A) VMware Player
 B) Microsoft Hyper-V
 C) Linux KVM
 D) VMware ESXi
 E) Xen Server
 
-64. 2-ci növ Hipervizora aiddir:
+64. 2-ci növ Hipervizora aşağıdakılardan hansı aiddir?
 A) Oracle VirtualBox
 B) Microsoft Hyper-V
 C) Linux KVM
 D) VMware ESXi
 E) Xen Server
 
-65. 1-ci növ Hipervizor bu növ virtuallaşdırmanı həyata keçirir:
+65. 1-ci növ Hipervizor hansı növ virtuallaşdırmanı həyata keçirir?
 A) Avadanlığın
 B) Tətbiqin
 C) Məlumatların
 D) Təhlükəsizliyin
 E) Şəbəkənin
 
-66. 2-ci növ Hipervizorlar aşağıdakılar üçün düzgün seçimdir:
+66. 2-ci növ Hipervizorlar aşağıdakılardan hansı/hansılar üçün düzgün seçimdir?
 A) Bütün variantlar
 B) Noutbuk
 C) Test mühiti
@@ -510,75 +510,75 @@ C) File Server
 D) S3
 E) S2 
 
-73. MySQL və Oracle VB-sından istifadə edərək genişmiqyaslı server təqdim edən AWS xidməti:
+73. MySQL və Oracle VB-sından istifadə edərək genişmiqyaslı server təqdim edən AWS xidməti hansıdır?
 A) RDS 
 B) S3
 C) EC2
 D) IAM
 E) FPS
 
-74. 
-A) 
-B) 
-C) 
-D) 
-E) 
+74. Məlumatların arxivləşdirilməsi və ehtiyat nüsxəsinin çıxarılması üçün yaddaş təmin edən AWS xidmət hansıdır?
+A) S3 Glacier
+B) RDS
+C) FPS
+D) IAM
+E) EBS
 
-75. 
-A) 
-B) 
-C) 
-D) 
-E) 
+75. AWS-də NoSQL strukturunda verilənlər bazası servisi hansıdır?
+A) DynamoDB
+B) MySQL
+C) PL/SQL
+D) Oracle SQL
+E) MSSQL
 
-76. 
-A) 
-B) 
-C) 
-D) 
-E) 
+76. Virtual maşınlar üçün istifadə edilən AWS tərəfindən təmin edilən saxlama servisi hansıdır?
+A) EBS
+B) FPS
+C) EC2
+D) S3
+E) IAM
 
-77. 
-A) 
-B) 
-C) 
-D) 
-E) 
+77. Aşağıdakılardan hansı AWS S3 istifadə edən böyük şirkətlərdən biridir?
+A) DropBox
+B) Walmart
+C) Gap
+D) Target
+E) Kroger
 
-78. 
-A) 
-B) 
-C) 
-D) 
-E) 
+78. Aşağıdakılardan hansı AWS S3 istifadə edən böyük şirkətlərdən biridir?
+A) NetFlix
+B) Walmart
+C) Gap
+D) Target
+E) Kroger
 
-79. 
-A) 
-B) 
-C) 
-D) 
-E) 
+79. Aşağıdakılardan hansı AWS S3 istifadə edən böyük şirkətlərdən biridir? 
+A) Meta(Facebook)
+B) Walmart
+C) Gap
+D) Target
+E) Kroger
 
-80. 
-A) 
-B) 
-C) 
-D) 
-E) 
+80. S3(AWS) abreviaturasın açılışı necədir?
+A) Simple Storage Service
+B) Simple Storage Span
+C) Steal Storage Service
+D) Spanned Storage Service
+E) Simple Storage Server
 
-81. 
-A) 
-B) 
-C) 
-D) 
-E) 
+81. Xidmət səviyyəsi müqaviləsinə(SLA) əsasən AWS S3-ün mövcudluq müddəti nə qədərdir?
+A) 99,99%
+B) 99,11%
+C) 98,99%
+D) 95,99%
+E) 98,22%
 
-82. 
-A) 
-B) 
-C) 
-D) 
-E) 
+82. AWS S3 Glacier istifadə etməyin faydası hansıdır?
+A) qiyməti
+B) tezliyi
+C) kiçik müddətli saxlama
+D) regionların çoxluğu
+E) avtomatik miqyaslaşması
 
 83. 
 A) 
