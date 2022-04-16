@@ -1054,12 +1054,12 @@ C) üç hallı
 D) dörd hallı
 E) beş hallı
 
-150. 
-A) 
-B) 
-C) 
-D) 
-E) 
+150. Bulud hesablamaları üçün təhlükəsizlik standartlarını inkişaf etdirməyə kömək edən təşkilatın adı nədir?
+A) CSA
+B) NIST
+C) CSWD
+D) SCA
+E) NSA
 
 151. 
 A) 
