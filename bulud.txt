@@ -1061,12 +1061,12 @@ C) CSWD
 D) SCA
 E) NSA
 
-151. 
-A) 
-B) 
-C) 
-D) 
-E) 
+151. Xidmətlər arası əlaqə hansı arxitektura əsasında qurulur?
+A) SOAP
+B) REST
+C) SAML
+D) YAML
+E) XML
 
 152. 
 A) 
