@@ -608,33 +608,33 @@ C) Aurora
 D) DynamoDB
 E) RDS
 
-87. 
-A) 
-B) 
-C) 
-D) 
-E) 
+87. Hansı imtiyaz AWS root hesabına xasdır və hesabda başqa IAM istifadəçisinə verilə bilməz?
+A) AWS hesabını silinməsi rolu
+B) administrator rolu 
+C) yeni resurs yaratma rolu
+D) S3 nüsxəsini silmək rolu
+E) yeni istifadəçisi yaratmaq rolu
 
-88. 
-A) 
-B) 
-C) 
-D) 
-E) 
+88. AWS S3 nüsxəsinin ən böyük ola biləcək ölcüsü nə qədərdir? 
+A) 5TB
+B) 10TB
+C) 1TB
+D) 2TB
+E) 3TB
 
-89. 
-A) 
-B) 
-C) 
-D) 
-E) 
+89. AWS VPC nə edir?
+A) bir sıra virtual serverlər və cihazları birləşdirmək üçün bulud əsaslı şəbəkə yaradır
+B) iki şəbəkə arasında təhlükəsiz tunel yaradır
+C) tətbiq məlumatlarının çoxsaylı nüsxələrdə paylaşılması üçün paylaşılan yaddaş planı yaradır
+D) internetdən tamamilə təcrid olunmuş şəxsi şəbəkə yaradır
+E) şəbəkələr arasında tunnelərin təhlükəsizliyi təmin edir
 
-90. 
-A) 
-B) 
-C) 
-D) 
-E) 
+90. IaC(Infrastructure as Code) xidməti ilə təmin edən AWS xidməti hansıdır?
+A) CloudFormation
+B) AWS Service Catalog
+C) AWS Config
+D) CloudTrail
+E) CloudFront
 
 91. 
 A) 
