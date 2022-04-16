@@ -998,61 +998,61 @@ C) Istifadə ediləcək dəyişikliklərin idarə edilməsi prosesini
 D) Məlumatların məxfiliyini
 E) Mübahisələrdə vasitəçilik prosesindən istifadəni
 
-142. 
-A) 
-B) 
-C) 
-D) 
-E) 
+142. Hansı Cloud Computing kateqoriyası deyil:
+A) KaaS
+B) SaaS
+C) İaaS
+D) PaaS
+E) STaaS
 
-143. 
-A) 
-B) 
-C) 
-D) 
-E) 
+143. Aşağıdakılardan hansı 3-cü tərəf provayder kimi xidmətlər təklif edir, internet üzərindən xidmətlər təqdim edir, ümumiyyətlə hamı üçün əlçatandır?
+A) Public Cloud
+B) Private Cloud
+C) Hybrid Cloud
+D) Virtual Cloud
+E) HPC Cloud
 
-144. 
-A) 
-B) 
-C) 
-D) 
-E) 
+144. Amazon tərəfindən təklif olunan servis kateqoriyası hansıdır?
+A) Hamısı
+B) SaaS
+C) İaaS
+D) FaaS
+E) PaaS
 
-145. 
-A) 
-B) 
-C) 
-D) 
-E) 
+145. Kvant kompüterində məlumat 0 ilə 1 arasında olması neçə adlanır?
+A) Superpozisiya
+B) Adi mövqe
+C) Fərqli mövqe
+D) Eyni mövqe
+E) İkili mövqe
 
-146. 
-A) 
-B) 
-C) 
-D) 
-E) 
+146. Kvant kompüterlərinin tətbiqi hansılardır?
+A) Yuxarıda göstərilənlərin hamısı
+B) Süni İntellekt
+C) Machine Learning
+D) Kibertəhlükəsizlik
+E) Kriptoqrafiya
 
-147. 
-A) 
-B) 
-C) 
-D) 
-E) 
+147. Bulud platformasına kvant kompüteri yerləşdirən ilk şirkət hansıdır?
+A) İBM
+B) Google
+C) Amazon
+D) Apple
+E) Oracle
 
-148. 
-A) 
-B) 
-C) 
-D) 
-E) 
+148. Hansı şirkət klassik kompüterdən 100 milyon dəfə sürətli kvant kompüterə malikdir?
+A) Google
+B) İBM
+C) Oracle
+D) Amazon
+E) Apple
 
-149. 
-A) 
-B) 
-C) 
-D) 
-E) 
+149. Qubit necə hallı kvant-mexaniki sistemdir?
+A) iki hallı
+B) bir hallı
+C) üç hallı
+D) dörd hallı
+E) beş hallı
 
 150. 
 A) 
