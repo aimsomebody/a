@@ -801,40 +801,40 @@ C) Blockchain
 D) Storage
 E) Networking
 
-114. 
-A) 
-B) 
-C) 
-D) 
-E) 
+114. Google Cloud-da serversiz hesablama xidməti hansıdır?
+A) App Engine
+B) Game Servers
+C) Cloud Trace
+D) Cloud SDK
+E) Cloud SQL
 
-115. 
-A) 
-B) 
-C) 
-D) 
-E) 
+115. Google Cloud-da serversiz hesablama xidməti hansıdır?
+A) Cloud Functions
+B) Game Servers
+C) Cloud Trace
+D) Cloud SDK
+E) Cloud SQL
 
-116. 
-A) 
-B) 
-C) 
-D) 
-E) 
+116. Google Cloud rollardan biri hansıdır?
+A) primitiv
+B) ümümi
+C) istifadəçi
+D) veb
+E) virtual
 
-117. 
-A) 
-B) 
-C) 
-D) 
-E) 
+117. Google Cloud rollardan biri hansıdır?
+A) əvvəlcədən təyin olunmuş
+B) ümümi
+C) istifadəçi
+D) veb
+E) virtual
 
-118. 
-A) 
-B) 
-C) 
-D) 
-E) 
+118. Google Cloud rollardan biri hansıdır?
+A) xüsusi
+B) ümümi
+C) istifadəçi
+D) veb
+E) virtual
 
 119. 
 A) 
