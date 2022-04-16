@@ -815,21 +815,21 @@ C) Cloud Trace
 D) Cloud SDK
 E) Cloud SQL
 
-116. Google Cloud rollardan biri hansıdır?
+116. Google Cloud-da rollardan biri hansıdır?
 A) primitiv
 B) ümümi
 C) istifadəçi
 D) veb
 E) virtual
 
-117. Google Cloud rollardan biri hansıdır?
+117. Google Cloud-da  rollardan biri hansıdır?
 A) əvvəlcədən təyin olunmuş
 B) ümümi
 C) istifadəçi
 D) veb
 E) virtual
 
-118. Google Cloud rollardan biri hansıdır?
+118. Google Cloud-da rollardan biri hansıdır?
 A) xüsusi
 B) ümümi
 C) istifadəçi
