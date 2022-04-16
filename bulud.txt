@@ -496,7 +496,7 @@ C) User Management
 D) Settings
 E) Portal
 
-71. AWS-in fayl xostinqi necə adlanır?
+71. AWS-in fayl xidməti necə adlanır?
 A) S3
 B) Store
 C) File Server
@@ -517,42 +517,42 @@ C) EC2
 D) IAM
 E) FPS
 
-74. Məlumatların arxivləşdirilməsi və ehtiyat nüsxəsinin çıxarılması üçün yaddaş təmin edən AWS xidmət hansıdır?
+74. Məlumatların arxivləşdirilməsi və ehtiyat nüsxəsinin çıxarılması üçün yaddaş təmin edən AWS xidməti hansıdır?
 A) S3 Glacier
 B) RDS
 C) FPS
 D) IAM
 E) EBS
 
-75. AWS-də NoSQL strukturunda verilənlər bazası servisi hansıdır?
+75. AWS-də NoSQL strukturunda verilənlər bazası xidməti hansıdır?
 A) DynamoDB
 B) MySQL
 C) PL/SQL
 D) Oracle SQL
 E) MSSQL
 
-76. Virtual maşınlar üçün istifadə edilən AWS tərəfindən təmin edilən saxlama servisi hansıdır?
+76. Virtual maşınlar üçün istifadə edilən AWS tərəfindən təmin edilən saxlama xidməti hansıdır?
 A) EBS
 B) FPS
 C) EC2
 D) S3
 E) IAM
 
-77. Aşağıdakılardan hansı AWS S3 istifadə edən böyük şirkətlərdən biridir?
+77. Aşağıdakılardan hansı AWS S3-dən istifadə edən böyük şirkətlərdən biridir?
 A) DropBox
 B) Walmart
 C) Gap
 D) Target
 E) Kroger
 
-78. Aşağıdakılardan hansı AWS S3 istifadə edən böyük şirkətlərdən biridir?
+78. Aşağıdakılardan hansı AWS S3-dən istifadə edən böyük şirkətlərdən biridir?
 A) NetFlix
 B) Walmart
 C) Gap
 D) Target
 E) Kroger
 
-79. Aşağıdakılardan hansı AWS S3 istifadə edən böyük şirkətlərdən biridir? 
+79. Aşağıdakılardan hansı AWS S3-dən istifadə edən böyük şirkətlərdən biridir? 
 A) Meta(Facebook)
 B) Walmart
 C) Gap
@@ -566,7 +566,7 @@ C) Steal Storage Service
 D) Spanned Storage Service
 E) Simple Storage Server
 
-81. Xidmət səviyyəsi müqaviləsinə(SLA) əsasən AWS S3-ün mövcudluq müddəti nə qədərdir?
+81. Xidmət səviyyəsi müqaviləsinə(SLA) əsasən AWS S3-ün mövcudluq(availability) müddəti nə qədərdir?
 A) 99,99%
 B) 99,11%
 C) 98,99%
@@ -580,33 +580,33 @@ C) kiçik müddətli saxlama
 D) regionların çoxluğu
 E) avtomatik miqyaslaşması
 
-83. 
-A) 
-B) 
-C) 
-D) 
-E) 
+82. AWS S3 Glacier istifadə etməyin faydası hansıdır?
+A) təhlükəsizliyi
+B) tezliyi
+C) kiçik müddətli saxlama
+D) regionların çoxluğu
+E) avtomatik miqyaslaşması
 
-84. 
-A) 
-B) 
-C) 
-D) 
-E) 
+84. MySQL verilənlər bazasını dəstəkləyən AWS xidmət hansıdır? 
+A) Aurora
+B) DynamoDB
+C) NoSQL
+D) S3
+E) Rocket
 
-85. 
-A) 
-B) 
-C) 
-D) 
-E) 
+85. AWS infrastrukturunda dəyişikliklərin audit jurnalını saxlamaq üçün hansı xidmətdən istifadə olunur?
+A) CloudTrail
+B) CloudFront
+C) CloudFormation
+D) CloudDocs
+E) CloudAnalytics
 
-86. 
-A) 
-B) 
-C) 
-D) 
-E) 
+86. Həm veb, həm də mobil tətbiqlərdən gələn böyük istifadəçi məlumatlarını saxlamağa imkan verən xidmət hansıdır?
+A) RedShift 
+B) Neptune
+C) Aurora
+D) DynamoDB
+E) RDS
 
 87. 
 A) 
