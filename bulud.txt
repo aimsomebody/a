@@ -707,68 +707,71 @@ C) Proqram təminatı, Tətbiq, Platforma, İnfrastruktur, Server
 D) Avadanlıq, Tətbiq, Platforma, İnfrastruktur, Server
 E) Proqram təminatı, Servis, Platforma, İnfrastruktur, Server
 
-101. 
-A) 
-B) 
-C) 
-D) 
-E) 
+101. IaaS modeli tərəfindən hansı resurs təmin edilir?
+A) Virtual maşın
+B) Virtual şəxsi şəbəkə
+C) Avadanlıq
+D) Şəbəkə
+E) Test mühiti
 
-102. 
-A) 
-B) 
-C) 
-D) 
-E) 
+102. Müştəri test və səhnələşdirmə mühitində uyğun olmayan proqram təminatı ilə çətinlik çəkir.
+Hansı bulud özəlliyi bu problemi həll etməyə kömək edə bilər?
+A) Avtomatik təminat
+B) Ucuz qiymət
+C) Təhlükəsizlik
+D) Elastik miqyaslama
+E) Test mühiti
 
-103. 
-A) 
-B) 
-C) 
-D) 
-E) 
+103. Şirkət müxtəlif cihazlardan istifadə etməklə dünya miqyasında müştəri bazasına İT xidmətləri göstərməlidir.
+Bulud hesablamasının hansı özəlliyi şirkətə bu cür xidmətləri təqdim etməyə kömək edə bilər?
+A) Geniş yayılma
+B) Tətbiq serverlərinin şaquli miqyası
+C) Tətbiq serverlərinin üfüqi miqyası
+D) Getdikcə ödə (pay-as-you-go)
+E) Təhlükəsizlik
 
-104. 
-A) 
-B) 
-C) 
-D) 
-E) 
+104. Hansı model istifadəçilərə veb-əsaslı e-poçt xidməti təqdim edən bulud hesablama mühitinə nümunədir?
+A) SaaS
+B) İaaS
+C) PaaS
+D) XaaS
+E) STaaS
 
-105. 
-A) 
-B) 
-C) 
-D) 
-E) 
+105. Bulud provayderi müştərinin mühitindən işləyəcək proqramların yaradılması üçün mühit təklif edir. 
+Hansı bulud modelinin nümunəsidir?
+A) PaaS
+B) İaaS
+C) SaaS
+D) XaaS
+E) STaaS 
 
-106. 
-A) 
-B) 
-C) 
-D) 
-E) 
+106. Hansı bulud modeli istifadəçilərə virtual maşınlarla təmin edir?
+A) İaaS
+B) PaaS
+C) SaaS
+D) XaaS
+E) STaaS 
 
-107. 
-A) 
-B) 
-C) 
-D) 
-E) 
+107. Tətbiq xidməti provayderi müştərini nə ilə təmin edir?
+A) SaaS xidməti
+B) İaaS xidməti
+C) İnternetə çıxış
+D) HaaS xidməti
+E) Təhlükəsizlik
 
-108. 
-A) 
-B) 
-C) 
-D) 
-E) 
+108. Hansı biznes növü SaaS modelində xidmət təqdim edir?
+A) Tətbiq xidməti provayderi
+B) İnternet xidməti provayderi
+C) İnfrastruktur xidməti provayderi
+D) Platforma xidməti provayderi
+E) Təhlükəsizlik xidməti provayderi
 
-109. 
-A) 
-B) 
-C) 
-D) 
-E) 
+109. Bulud hesablamasının üstünlüklərindən biri hansıdır?
+A) Kompüter resursları tez bir zamanda təmin edilə bilər
+B) Resurslar tez bir bulud mühitindən digərinə keçə bilər
+C) Bulud hesablama mühiti üçün əməliyyat xərcləri yoxdur
+D) İş yükü tez bulud hesablama mühitinə keçə bilər
+E) Virtual maşınlara şəbəkə trafikini minimuma endirir
 
 110. 
 A) 
