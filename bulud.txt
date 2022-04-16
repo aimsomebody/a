@@ -700,12 +700,12 @@ C) Əlçatanlıq
 D) Həddindən artıq çox platforma
 E) Asan inteqrasiya
 
-100. 
-A) 
-B) 
-C) 
-D) 
-E) 
+100. Cloud Computing aşağıdakı təbəqələrə malikdir
+A) Müştəri, Proqram, Platforma, İnfrastruktur, Server
+B) İstifadəçi, Proqram təminatı, Platforma, İnfrastruktur, Server
+C) Proqram təminatı, Tətbiq, Platforma, İnfrastruktur, Server
+D) Avadanlıq, Tətbiq, Platforma, İnfrastruktur, Server
+E) Proqram təminatı, Servis, Platforma, İnfrastruktur, Server
 
 101. 
 A) 
