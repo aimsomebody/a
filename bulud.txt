@@ -956,33 +956,33 @@ C) Secured
 D) Data Firewall
 E) Data Analytics
 
-136. 
-A) 
-B) 
-C) 
-D) 
-E) 
+136. Oracle Cloud-da səmərəsizlikləri tapan və onların həlli yollarını təklif edən xidmət hansıdır?
+A) Cloud Advisor
+B) Cloud Optimizer
+C) Cloud Solutions
+D) Cloud Secured
+E) Cloud Recommendator
 
-137. 
-A) 
-B) 
-C) 
-D) 
-E) 
+137. Oracle Cloud-da platformanın təhlükəsizliyini təmin edən xidmət hansıdır?
+A) Cloud Guard
+B) Cloud Secured
+C) Cloud Firewall
+D) Cloud AntiVirus
+E) Cloud Firegrid
 
-138. 
-A) 
-B) 
-C) 
-D) 
-E) 
+138. Oracle Cloud-da şübhəli IP ünvanları, domen adları və digər rəqəmsal barmaq izləri daxil olmaqla, məlum təhlükə göstəriciləri haqqında məlumat göstərən xidmət?
+A) Threat Intelligence
+B) Threat Announcements
+C) Threat Identified
+D) Cloud Secured
+E) Cloud Guard
 
-139. 
-A) 
-B) 
-C) 
-D) 
-E) 
+139. Oracle Cloud-da məlumatları şifrələmə açarlarını və resurslara daxil olmaq üçün istifadə olunan şifrələri mərkəzləşdirilmiş şəkildə idarə etməyə kömək edən xidmət hansıdır?
+A) Vault
+B) Cached
+C) Encrypted
+D) Secured
+E) Wallet
 
 140. 
 A) 
