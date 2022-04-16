@@ -935,12 +935,12 @@ C) Oracle Search
 D) Oracle Networking
 E) Oracle Marketplace
 
-133. 
-A) 
-B) 
-C) 
-D) 
-E) 
+133. Oracle Cloud-da xidmətlərinin halını göstərən xidmət hansıdır?
+A) Oracle Pulse
+B) Oracle Hospital
+C) Oracle Doctor
+D) Oracle Medicine
+E) Oracle Heal
 
 134. 
 A) 
