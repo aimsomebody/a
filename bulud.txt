@@ -846,8 +846,8 @@ E) Şəbəkələr regionaldır, subnet-lər millidir
 120. Google Cloud Platforma müştərisi çox səviyyəli tətbiqin bir hissəsini təşkil edən VM-lar arasında trafiki yükləmək istəyir.
 Bu müştəri hansı xidməti seçməlidir?
 A) Regional daxili yük balanslayıcısı
-B) Regional yük balanslaşdırıcısı
-C) Qlobal Veb balanslaşdırıcısı
+B) Regional yük balanslayıcısı
+C) Qlobal Veb balanslayıcısı
 D) Qlobal TCP proksi
 E) Qlobal SSL proksi
 
