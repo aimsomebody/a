@@ -836,12 +836,12 @@ C) istifadəçi
 D) veb
 E) virtual
 
-119. 
-A) 
-B) 
-C) 
-D) 
-E) 
+119. Google VPC şəbəkələri və subnet-ləri haqqında hansı ifadə doğrudur?
+A) Şəbəkələr qlobaldır, subnet-lər regionaldır
+B) Şəbəkələr regionaldır və subnet-lər regionaldır
+C) Şəbəkələr qlobaldır, subnet-lər millidir
+D) Şəbəkələr və subnet-lər qlobaldır
+E) Şəbəkələr regionaldır, subnet-lər millidir
 
 120. 
 A) 
