@@ -921,19 +921,19 @@ C) Asan yerləşdirmə üçün proqramları bölmələrə yerləşdirən proqram
 D) Qovşaqları və podları birləşdirən sistem
 E) Qovşaqlar üçün tutum bölgüsünə nəzarət edən ƏS daxilində proqram təminatı
 
-131. d
-A) 
-B) 
-C) 
-D) 
-E) 
+131. Oracle Cloud-da serversiz hesablama xidməti hansıdır?
+A) Oracle Functions
+B) Oracle Speech
+C) Oracle Search
+D) Oracle Networking
+E) Oracle Marketplace
 
-132. 
-A) 
-B) 
-C) 
-D) 
-E) 
+132. Hansı Oracle Cloud xidmətində şəkillərdəki obyektləri aşkar etmək və təsnif etmək mümkündür?
+A) Oracle Vision
+B) Oracle Image
+C) Oracle Search
+D) Oracle Networking
+E) Oracle Marketplace
 
 133. 
 A) 
