@@ -921,7 +921,7 @@ C) Asan yerləşdirmə üçün proqramları bölmələrə yerləşdirən proqram
 D) Qovşaqları və podları birləşdirən sistem
 E) Qovşaqlar üçün tutum bölgüsünə nəzarət edən ƏS daxilində proqram təminatı
 
-131. 
+131. d
 A) 
 B) 
 C) 
