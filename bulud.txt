@@ -1209,7 +1209,7 @@ C) XenServer
 D) VMware
 E) Oracle
 
-172.Virtual mühitdə konteynerlər yaratmaq, işə salmaq və idarə etmək üçün hansı konteyner mühərrikindən istifadə olunur?
+172.Virtual mühitdə klasterlər yaratmaq, işə salmaq və idarə etmək üçün hansı konteyner mühərrikindən istifadə olunur?
 A) Kubernetes
 B) VServer
 C) XenServer
