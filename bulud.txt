@@ -1217,32 +1217,33 @@ D) VMware
 E) Oracle
 
 173. 1-ci növ Hipervizorun xüsusiyyəti nədir?
-A) Birbaşa avadanlıq üzərində işləyir
+A) Birbaşa aparat üzərində işləyir
 B) Hipervizorda işləyir
 C) Adətən müştərilər tərəfindən istifadə olunur
 D) Bir konteynerdə işləyir
 E) Heç biri
 
-174. 
-A) 
-B) 
-C) 
-D) 
-E) 
+174. Aşağıdakılardan hansı birdən çox əməliyyat sisteminin eyni aparat üzərində eyni vaxtda işləməsinə imkan verir?
+A) Virtualizasiya
+B) Duplikasiya
+C) Emulyasiya
+D) Heç biri
+E) Hamısı
 
-175. 
-A) 
-B) 
-C) 
-D) 
-E) 
+175. Virtual mühitdə konteynerlər yaratmaq, işə salmaq və idarə etmək üçün hansı konteyner mühərrikindən istifadə olunur?
+1. Docker    2.Player   3. Kubernetes   4.VirtualBox   5. Xen Server
+A) 1,3
+B) 1,4
+C) 2,3
+D) 2,5
+E) 4,5
 
-176. 
-A) 
-B) 
-C) 
-D) 
-E) 
+176. Virtual maşınlar üçün xas olan boşluq hansıdır?
+A) VM escape
+B) SQL injection
+C) VM threat
+D) VM SQL
+E) VM Virus
 
 177. 
 A) 
