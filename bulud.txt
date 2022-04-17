@@ -1240,9 +1240,9 @@ E) 4,5
 
 176. Virtual maşınlar üçün xas olan boşluq hansıdır?
 A) VM escape
-B) SQL injection
+B) VM injection
 C) VM threat
-D) VM SQL
+D) VM malware
 E) VM Virus
 
 177. 
