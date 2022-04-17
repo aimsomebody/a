@@ -1118,33 +1118,33 @@ C) 2001
 D) 2005
 E) 2008
 
-159. 
-A) 
-B) 
-C) 
-D) 
-E) 
+159. Avropa Birliyi tərəfindən yaradılmış Cloud Platforması?
+A) EGI
+B) AWS
+C) Azure
+D) EUCloud
+E) CloudDB
 
-160. 
-A) 
-B) 
-C) 
-D) 
-E) 
+160. Aşağıdakılardan hansı Cloud platforması kommersiya məqsədli nəzərdə tutulmayıb?
+A) EGI
+B) AWS
+C) Azure
+D) EUCloud
+E) CloudDB
 
-161. 
-A) 
-B) 
-C) 
-D) 
-E) 
+161. Aşağıdakılardan hansı Cloud platforması elm və tədqiqat nəzərdə tutulub?
+A) EGI
+B) AWS
+C) Azure
+D) EUCloud
+E) CloudDB
 
-162. 
-A) 
-B) 
-C) 
-D) 
-E) 
+162. Grid hesablamaları konsepti əsasında qurulmuş platforma hansıdır?
+A) Globus
+B) Gmaps
+C) Region
+D) Nation
+E) CloudMap
 
 163. 
 A) 
