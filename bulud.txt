@@ -1146,19 +1146,19 @@ C) Region
 D) Nation
 E) CloudMap
 
-163. 
-A) 
-B) 
-C) 
-D) 
-E) 
+163. Datacenter infrastruktur komponentlərinə aşağıdakılar daxildir:
+A) Saxlama, Serverlər, Şəbəkə və İdarəetmə Vasitələri
+B) Saxlama, Serverlər, Şəbəkə və Əməliyyat Sistemi
+C) Serverlər, Şəbəkə, Əməliyyat Sistemi və İdarəetmə Vasitələri
+D) Hesablama Cihazları, Serverlər, Şəbəkə və İdarəetmə Vasitələri
+E) Cihazlar, Serverlər, Şəbəkə və İdarəetmə Vasitələri
 
-164. 
-A) 
-B) 
-C) 
-D) 
-E) 
+164. Qrid sistemində qeydlərinin aparılması hansı komponentdə yerləşir?
+A) İş Yükü İdarəetmə Serveri (WMS)
+B) Saxlama elementi
+C) Hesablama Elementi
+D) Virtual Təşkilat İdarəetmə Serveri (VOMS)
+E) Depolama elementi
 
 165. 
 A) 
