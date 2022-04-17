@@ -1181,26 +1181,26 @@ C) Fəlakətin bərpası
 D) Server təminatı
 E) Köçürülmə
 
-168. 
-A) 
-B) 
-C) 
-D) 
-E) 
+168. Serverin virtuallaşdırılması məlumat mərkəzini necə daha səmərəli edir?
+A) Serverdən istifadə dərəcələrini artırmaqla
+B) Bu, məlumat mərkəzini daha səmərəli etmir
+C) Saxlama tələblərini azaltmaqla
+D) Serverdən istifadə dərəcələrini azaltmaqla
+E) Saxlama tələblərini artırmaqla
 
-169. 
-A) 
-B) 
-C) 
-D) 
-E) 
+166. Virtuallaşdırılmış server üçün tipik istifadə dərəcəsi nə qədərdir?
+A) 50-80 %
+B) 5-10 %
+C) 2-3 %
+D) 20-30 %
+E) 90-100 %
 
-170. 
-A) 
-B) 
-C) 
-D) 
-E) 
+170. Aşağıdakı hansı öz hipervizoruna sahib deyil?
+A) Cisco Systems
+B) Parallels
+C) Oracle
+D) Citrix Systems
+E) VMware
 
 171. 
 A) 
