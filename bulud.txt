@@ -1245,82 +1245,82 @@ C) VM threat
 D) VM malware
 E) VM Virus
 
-177. 
-A) 
-B) 
-C) 
-D) 
-E) 
+177. Aşağıdakılardan hansı SaaS xidmətinə aiddir?
+A) Gmail
+B) AWS Elastic Beanstalk
+C) Google App Engine
+D) Microsoft Azure
+E) AWS Lambda
 
-178. 
-A) 
-B) 
-C) 
-D) 
-E) 
+178. Aşağıdakılardan hansı SaaS xidmətinə aiddir?
+A) Slack
+B) AWS Elastic Beanstalk
+C) Google App Engine
+D) Microsoft Azure
+E) AWS Lambda
 
-179. 
-A) 
-B) 
-C) 
-D) 
-E) 
+179. Aşağıdakılardan hansı SaaS xidmətinə aiddir?
+A) Microsoft Office 365
+B) AWS Elastic Beanstalk
+C) Google App Engine
+D) Microsoft Azure
+E) AWS Lambda
 
-180. 
-A) 
-B) 
-C) 
-D) 
-E) 
+180. Aşağıdakılardan hansı SaaS xidmətinə aiddir?
+A) DropBox
+B) AWS Elastic Beanstalk
+C) Google App Engine
+D) Microsoft Azure
+E) AWS Lambda
 
-181. 
-A) 
-B) 
-C) 
-D) 
-E) 
+181. Aşağıdakılardan hansı SaaS xidmətinə aiddir?
+A) Google Workspace
+B) AWS Elastic Beanstalk
+C) Google App Engine
+D) Microsoft Azure
+E) AWS Lambda
 
-182. 
-A) 
-B) 
-C) 
-D) 
-E) 
+182. Aşağıdakılardan hansı SaaS xidmətinə aiddir?
+A) Hamısı
+B) Slack
+C) Microsoft Office 365
+D) Google Workspace
+E) DropBox
 
-183. 
-A) 
-B) 
-C) 
-D) 
-E) 
+183. Aşağıdakılardan hansı PaaS xidmətinə aiddir?
+A) Google App Engine
+B) Slack
+C) Microsoft Office 365
+D) Google Workspace
+E) DropBox
 
-184. 
-A) 
-B) 
-C) 
-D) 
-E) 
+184. Aşağıdakılardan hansı PaaS xidmətinə aiddir?
+A) AWS Elastic Beanstalk
+B) Slack
+C) Microsoft Office 365
+D) Google Workspace
+E) DropBox
 
-185. 
-A) 
-B) 
-C) 
-D) 
-E) 
+185. Aşağıdakılardan hansı IaaS xidmətinə aiddir?
+A) AWS
+B) Slack
+C) Microsoft Office 365
+D) Google Workspace
+E) DropBox
 
-186. 
-A) 
-B) 
-C) 
-D) 
-E) 
+186. Aşağıdakılardan hansı IaaS xidmətinə aiddir?
+A) Azure
+B) Slack
+C) Microsoft Office 365
+D) Google Workspace
+E) DropBox
 
-187. 
-A) 
-B) 
-C) 
-D) 
-E) 
+187. Aşağıdakılardan hansı IaaS xidmətinə aiddir?
+A) Google Compute Engine
+B) Slack
+C) Microsoft Office 365
+D) Google Workspace
+E) DropBox
 
 188. 
 A) 
