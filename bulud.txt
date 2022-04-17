@@ -1202,19 +1202,20 @@ C) Oracle
 D) Citrix Systems
 E) VMware
 
-171. 
-A) 
-B) 
-C) 
-D) 
-E) 
+171. Virtual mühitdə konteynerlər yaratmaq, işə salmaq və idarə etmək üçün hansı konteyner mühərrikindən istifadə olunur?
+A) Docker
+B) VServer
+C) XenServer
+D) VMware
+E) Oracle
 
-172. 
-A) 
-B) 
-C) 
-D) 
-E) 
+172.Virtual mühitdə konteynerlər yaratmaq, işə salmaq və idarə etmək üçün hansı konteyner mühərrikindən istifadə olunur?
+A) Kubernetes
+B) VServer
+C) XenServer
+D) VMware
+E) Oracle
+
 
 173. 
 A) 
