@@ -1160,26 +1160,26 @@ C) Hesablama Elementi
 D) Virtual Təşkilat İdarəetmə Serveri (VOMS)
 E) Depolama elementi
 
-165. 
-A) 
-B) 
-C) 
-D) 
-E) 
+165. Bir fiziki serverdə bir neçə əməliyyat sistemini idarə etməyə imkan verən proqram təminatının adı nədir?
+A) Hipervizor
+B) Prosessor
+C) Virtual maşın
+D) Qonaq əməliyyat sistemi
+E) Əsas əməliyyat sistemi
 
-166. 
-A) 
-B) 
-C) 
-D) 
-E) 
+166. Virtuallaşdırılmamış server üçün tipik istifadə dərəcəsi nə qədərdir?
+A) 5-10 %
+B) 50-80 %
+C) 2-3 %
+D) 20-30 %
+E) 90-100 %
 
-167. 
-A) 
-B) 
-C) 
-D) 
-E) 
+167. Virtual iş yüklərinin fasiləsiz olaraq bir fiziki serverdən digərinə köçürülməsi adlanır:
+A) Canlı miqrasiya
+B) Yüksək əlçatanlıq
+C) Fəlakətin bərpası
+D) Server təminatı
+E) Köçürülmə
 
 168. 
 A) 
