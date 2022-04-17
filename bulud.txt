@@ -1104,19 +1104,19 @@ C) 2016
 D) 2003
 E) 2001
 
-157. 
-A) 
-B) 
-C) 
-D) 
-E) 
+157. Kubernetes sistemi neçənci ildə yaranıb?
+A) 2014
+B) 2010
+C) 2001
+D) 2005
+E) 2008
 
-158. 
-A) 
-B) 
-C) 
-D) 
-E) 
+158. Docker konteyneri neçənci ildə yaranıb?
+A) 2013
+B) 2010
+C) 2001
+D) 2005
+E) 2008
 
 159. 
 A) 
