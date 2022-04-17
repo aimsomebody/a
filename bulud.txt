@@ -1216,13 +1216,12 @@ C) XenServer
 D) VMware
 E) Oracle
 
-
-173. 
-A) 
-B) 
-C) 
-D) 
-E) 
+173. 1-ci növ Hipervizorun xüsusiyyəti nədir?
+A) Birbaşa avadanlıq üzərində işləyir
+B) Hipervizorda işləyir
+C) Adətən müştərilər tərəfindən istifadə olunur
+D) Bir konteynerdə işləyir
+E) Heç biri
 
 174. 
 A) 
